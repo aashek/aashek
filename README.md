@@ -1,18 +1,30 @@
-### Welcome to my profile.
-
-- 🔭 I’m currently working on ... myself.
-
-<!--
-**aashek/aashek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Aaron Shek</h1>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Portfolio</b></td>
+      <td width="50%" rowspan="4">
+        <img alt="Photo" src="" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li><a href="mailto:aashekau@gmail.com">aashekau@gmail.com</a></li>
+          <li><a href="./pages/links.md">Links</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr><td><b>Showcase</b></td></tr>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li><a href="./pages/education.md">Personal Blogs</a></li>
+          <li><a href="./pages/projects.md">Projects</a></li>
+<!--           <li><a href="./pages/qualifications.md">Skills & Qualifications</a></li> -->
+<!--           <li><a href="./pages/extracurriculars.md">Honors & Extracurriculars</a></li> -->
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
