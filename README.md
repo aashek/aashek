@@ -1,6 +1,3 @@
-
-<div style="border:1px solid #e1e4e8; border-radius:6px; padding:16px; background-color:#ffffff;">
-
 ### Academic Background
 
 **University of New South Wales**  
@@ -20,7 +17,7 @@ Unity, C#, VisualStudio, Matterport
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
           width='45' height='45' />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width='45' height='45' />    
-<img src="[Matterprt_idYiPSukVq_1.png](https://github.com/aashek/aashek/blob/main/Matterport_idYiPSukVq_1.png)" width='45' height='45' />    
+<img src="https://github.com/aashek/aashek/blob/main/MP.png" height='45' /> 
 
                     
 ---
