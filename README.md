@@ -9,6 +9,7 @@ Bachelor of Software Engineering (Honours) fin. 2025
 
 **Thesis Project — Virtual Reality Forensic Science Experience**  
 Conducted research on effectiveness of teaching forensic science using virtual reality to mimic real life situations. Designed and implemented photogrammetry and scene structures to mark/grade students on performance.  
+
 Technologies:
 Unity, C#, VisualStudio, Matterport
 <p align="left">
@@ -24,6 +25,7 @@ Unity, C#, VisualStudio, Matterport
 
 **Capstone Group Project — EpidemicEagle**  
 Collaborated in a team of 5 people to develop an automated system to find medical information about flying to countries and current news. Role in project: Full-stack Engineer, mainly in charge of CRM system. 
+
 Technologies:
 CSS3, HTML5, Python, Javascript, FastAPI
 <p align='left'>
@@ -38,8 +40,9 @@ CSS3, HTML5, Python, Javascript, FastAPI
 
 **Group Coursework Project — BobaMe**  
 Collaborated on a website that recommended stores or drinks in relation to bubble tea/boba. In this project I was mainly responsible for managing client-side design and audience appeal including: customer engagement through gamification, business opportunity through listings of stores, comment section and ratings.
+
 Technologies:
-Flask, PostGreSQL, AWS, ReactJS
+Flask, PostGreSQL, AWS EC2, ReactJS
 <p align="left">
   <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
